@@ -220,3 +220,7 @@ This project was developed with knowledge gained from **React JS tutorials** on 
 
 Check out [Chai aur Code](https://www.youtube.com/@ChaiAurCode) for insightful tutorials and practical examples!
 
+## PROJECT TEMPLATE
+
+<img src="aaa.JPG" width="100%">
+
