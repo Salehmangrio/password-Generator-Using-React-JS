@@ -222,5 +222,5 @@ Check out [Chai aur Code](https://www.youtube.com/@ChaiAurCode) for insightful t
 
 ## PROJECT TEMPLATE
 
-<img src="aaa.JPG" width="100%">
+<img src="template.png" width="100%">
 
