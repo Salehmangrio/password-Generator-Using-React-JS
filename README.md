@@ -1,4 +1,4 @@
-# Password Generator App
+# Password Generator Webpage using React JS and Tailwind CSS
 
 This is a simple **Password Generator App** built with React that allows users to generate secure, customizable passwords. The app provides options to set password length, include numbers, and add special characters, with a one-click copy functionality.
 
